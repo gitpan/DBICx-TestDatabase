@@ -21,9 +21,9 @@ no_index:
     - inc
     - t
 requires:
-  DBD::SQLite: 0
+  DBD::SQLite: 1.29
   File::Temp: 0
   SQL::Translator: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.03
+version: 0.04
